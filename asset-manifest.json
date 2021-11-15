@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54512987.chunk.css",
+    "main.js": "/static/js/main.2cf4ce3d.chunk.js",
+    "main.js.map": "/static/js/main.2cf4ce3d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95bfd358.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95bfd358.js.map",
+    "static/css/2.10b42ac4.chunk.css": "/static/css/2.10b42ac4.chunk.css",
+    "static/js/2.8d53f173.chunk.js": "/static/js/2.8d53f173.chunk.js",
+    "static/js/2.8d53f173.chunk.js.map": "/static/js/2.8d53f173.chunk.js.map",
+    "static/css/3.8bb4563c.chunk.css": "/static/css/3.8bb4563c.chunk.css",
+    "static/js/3.ad39880e.chunk.js": "/static/js/3.ad39880e.chunk.js",
+    "static/js/3.ad39880e.chunk.js.map": "/static/js/3.ad39880e.chunk.js.map",
+    "static/js/4.c03136bf.chunk.js": "/static/js/4.c03136bf.chunk.js",
+    "static/js/4.c03136bf.chunk.js.map": "/static/js/4.c03136bf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.10b42ac4.chunk.css.map": "/static/css/2.10b42ac4.chunk.css.map",
+    "static/css/3.8bb4563c.chunk.css.map": "/static/css/3.8bb4563c.chunk.css.map",
+    "static/css/main.54512987.chunk.css.map": "/static/css/main.54512987.chunk.css.map",
+    "static/js/2.8d53f173.chunk.js.LICENSE.txt": "/static/js/2.8d53f173.chunk.js.LICENSE.txt",
+    "static/media/calculator.37aab94e.jpg": "/static/media/calculator.37aab94e.jpg",
+    "static/media/cplyus.0a81196c.png": "/static/media/cplyus.0a81196c.png",
+    "static/media/css.6b567a6c.png": "/static/media/css.6b567a6c.png",
+    "static/media/mySkill.css": "/static/media/fonskill.21b77c1c.jpg",
+    "static/media/myproekt.css": "/static/media/kompfon2.160cedf6.jpeg",
+    "static/media/loading.9de46690.gif": "/static/media/loading.9de46690.gif",
+    "static/media/my_resume.d9ccde00.pdf": "/static/media/my_resume.d9ccde00.pdf",
+    "static/media/myfoto.d051ec1d.jpg": "/static/media/myfoto.d051ec1d.jpg",
+    "static/media/onlineshop.1daf684b.jpg": "/static/media/onlineshop.1daf684b.jpg",
+    "static/media/oquvmarkaz.415131b9.jpg": "/static/media/oquvmarkaz.415131b9.jpg",
+    "static/media/portfolio.0cae2895.jpg": "/static/media/portfolio.0cae2895.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bfd358.js",
+    "static/css/2.10b42ac4.chunk.css",
+    "static/js/2.8d53f173.chunk.js",
+    "static/css/main.54512987.chunk.css",
+    "static/js/main.2cf4ce3d.chunk.js"
+  ]
+}
